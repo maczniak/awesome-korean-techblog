@@ -22,7 +22,7 @@
 * [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER)
 * [Meetup](http://meetup.cloud.toast.com/) (NHN엔터테인먼트, NHN Entertainment)
 * [Mozilla](http://hacks.mozilla.or.kr/)
-* [README](http://readme.skplanet.com/) (SK플래닛, SK planet)
+* [README](http://readme.skplanet.com/) (SK플래닛, SK planet, [video](https://www.youtube.com/channel/UC4io6dg84bH23Ukhd0ISfvQ))
 * [VCNC](http://engineering.vcnc.co.kr/)
 
 ## 비활성
