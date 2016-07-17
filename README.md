@@ -5,6 +5,7 @@
 * [노매드커넥션](http://planetzimly.tistory.com/category/Nomad%20Connection/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8) (Nomad Connection)
 * [드라마앤컴퍼니](http://developer.dramancompany.com/) (DRAMA&COMPANY)
 * [렘](https://realm.io/kr/news/) (Realm)
+* [리디북스](http://www.ridicorp.com/blog/) (RIDI Corporation)
 * [모두의연구소](http://www.whydsp.org/) (lab4all)
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
 * [세이정보기술](http://www.sayit.kr/?cat=95) (SAYIT)
