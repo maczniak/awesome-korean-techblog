@@ -16,6 +16,7 @@
 * [와탭](http://tech.whatap.io/) (WhaTap)
 * [우아한형제들](http://woowabros.github.io/) (Woowa Brothers Corp)
 * [이상한모임](http://blog.weirdx.io/) (WeirdMeetup)
+* [이음소시어스](http://bigmatch.i-um.net/) (IUMSOCIUS)
 * [조이](https://zoyi.co/tech-blog/) (ZOYI)
 * [카카오](http://tech.kakao.com/) (Kakao)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster)
