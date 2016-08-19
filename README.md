@@ -24,6 +24,7 @@
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
 * [Amazon Web Services](https://aws.amazon.com/ko/blogs/korea/)
 * [Elastic](https://www.elastic.co/kr/blog/category/engineering)
+* [Google](http://googledevkr.blogspot.kr)
 * [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER)
 * [LINE Plus Corporation](http://developers.linecorp.com/blog/ko/)
 * [Meetup](http://meetup.cloud.toast.com/) (NHN엔터테인먼트, NHN Entertainment)
