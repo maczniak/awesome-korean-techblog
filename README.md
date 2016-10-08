@@ -5,6 +5,7 @@
 ## 기업 블로그 (Corporate Blog)
 
 * [노매드커넥션](http://planetzimly.tistory.com/category/Nomad%20Connection/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8) (Nomad Connection)
+* [달리웍스](http://techblog.daliworks.net) (Daliworks)
 * [당근마켓](https://medium.com/n42-corp) (N42)
 * [드라마앤컴퍼니](http://developer.dramancompany.com/) (DRAMA&COMPANY)
 * [렘](https://realm.io/kr/news/) (Realm)
