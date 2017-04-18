@@ -38,6 +38,7 @@
 * [Google](https://developers-kr.googleblog.com/)
 * [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER)
 * [JANDI](http://tosslab.github.io/) (토스랩, Toss Lab)
+* [LG CNS](http://blog.lgcns.com/)
 * [LINE Plus Corporation](http://developers.linecorp.com/blog/ko/)
 * [Meetup](http://meetup.cloud.toast.com/) (NHN엔터테인먼트, NHN Entertainment)
 * [Mozilla](http://hacks.mozilla.or.kr/)
