@@ -18,6 +18,7 @@
 * [리디북스](http://www.ridicorp.com/blog/) (RIDI Corporation)
 * [메가존](http://cloud.hosting.kr/blog/) (MEGAZONE)
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
+* [비트나인](http://bitnine.tistory.com/) (Bitnine, [english](http://bitnine.net/blog/))
 * [사이냅소프트](http://blog.synapsoft.co.kr/category/사이냅소프트/개발문화) (Synapsoft, [Project Euler](http://euler.synap.co.kr))
 * [세이정보기술](http://www.sayit.kr/?cat=95) (SAYIT)
 * [센드버드](http://blog.sendbird.com/ko/) (SendBird)
