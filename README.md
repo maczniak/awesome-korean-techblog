@@ -14,6 +14,7 @@
 * [드라마앤컴퍼니](http://developer.dramancompany.com/) (DRAMA&COMPANY)
 * [레드아이스](https://redice-inc.github.io/) (Redice)
 * [레이니스트](https://medium.com/rainist-engineering) (Rainist)
+* [레진](http://tech.lezhin.com/) (LezhinEnt)
 * [렘](https://realm.io/kr/news/) (Realm)
 * [리디북스](http://www.ridicorp.com/blog/) (RIDI Corporation)
 * [메가존](http://cloud.hosting.kr/blog/) (MEGAZONE)
