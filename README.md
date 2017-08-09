@@ -27,6 +27,7 @@
 * [센드버드](http://blog.sendbird.com/ko/) (SendBird)
 * [스포카](https://spoqa.github.io/) (Spoqa)
 * [애드투페이퍼](http://add2paper.github.io/) (ADD2PAPER)
+* [야놀자](https://yanolja.github.io/) (Yanolja)
 * [에이블정보기술](http://blog.ableit.co.kr/) (ABLE IT)
 * [엔씨소프트](http://blog.ncsoft.com/) (NCSOFT)
 * [엑셈](http://exem.tistory.com/category/기술이야기) (EXEM, [백과사전](http://www.exemwiki.com))
@@ -56,6 +57,7 @@
 * [이상한모임](http://blog.weirdx.io/) (WeirdMeetup)
 * [AWSKRUG](http://www.awskr.org/)
 * [Flative](http://blog.flative.io/)
+* [Nexters](http://nexters.github.io/)
 * [Popit](http://www.popit.kr/)
 
 ## 비활성 (Inactive)
