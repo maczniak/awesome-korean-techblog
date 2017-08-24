@@ -6,6 +6,7 @@
 
 * [가자고](http://tech.thegajago.com/) (GAJAGO, 레저큐, LeisureQ)
 * [굿닥](http://dev.goodoc.co.kr/) (goodoc)
+* [넥스투비](https://www.nextobe.com/technology) (NEXTOBE)
 * [노매드커넥션](http://planetzimly.tistory.com/category/Nomad%20Connection/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8) (Nomad Connection)
 * [달리웍스](http://techblog.daliworks.net) (Daliworks)
 * [당근마켓](https://medium.com/n42-corp) (N42)
