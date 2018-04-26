@@ -50,7 +50,7 @@
 * [JANDI](http://tosslab.github.io/) (토스랩, Toss Lab)
 * [LG CNS](http://blog.lgcns.com/)
 * [LINE Plus Corporation](http://developers.linecorp.com/blog/ko/)
-* [Meetup](http://meetup.cloud.toast.com/) (NHN엔터테인먼트, NHN Entertainment)
+* [TOAST Meetup](http://meetup.cloud.toast.com/) (NHN엔터테인먼트, NHN Entertainment, [FE Weekly](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly))
 * [Mozilla](http://hacks.mozilla.or.kr/)
 * [README](http://readme.skplanet.com/) (SK플래닛, SK planet, [video](https://www.youtube.com/channel/UC4io6dg84bH23Ukhd0ISfvQ))
 * [VCNC](http://engineering.vcnc.co.kr/)
