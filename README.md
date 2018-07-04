@@ -74,3 +74,7 @@
 * [Daum](http://daumdna.tistory.com/)
 * KTH
 * [MongoDB Internals](http://mongodb.citsoft.net/) (카디날정보기술, CITSoft)
+
+## 참고 (See Also)
+
+* [Awesome Devblog](https://awesome-devblog.herokuapp.com/) (list of Korean developer blogs)
