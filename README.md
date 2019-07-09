@@ -38,6 +38,7 @@
 * [오픈소스컨설팅](https://tech.osci.kr/) (OpenSourceConsulting)
 * [온더](https://medium.com/onther-tech) (Onther, [@onther](https://medium.com/@onther))
 * [와탭](http://tech.whatap.io/) (WhaTap)
+* [우리은행](https://digitalwooribank.github.io/) (Woori Bank)
 * [우아한형제들](http://woowabros.github.io/) (Woowa Brothers Corp)
 * [이음소시어스](http://bigmatch.i-um.net/) (IUMSOCIUS)
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
