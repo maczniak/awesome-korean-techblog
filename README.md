@@ -45,6 +45,7 @@
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
 * [카카오](http://tech.kakao.com/) (Kakao)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
+* [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
 * [플라네타리움](https://snack.planetarium.dev/kor/) (Planetarium)
