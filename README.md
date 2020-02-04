@@ -18,6 +18,7 @@
 * [레진](http://tech.lezhin.com/) (LezhinEnt)
 * [렘](https://realm.io/kr/news/) (Realm)
 * [리디북스](http://www.ridicorp.com/blog/) (RIDI Corporation)
+* [리모트몬스터](https://blog.remotemonster.com/tagged/tech) (REMOTEMONSTER)
 * [마플](https://marpple.github.io/) (Marpple)
 * [메가존](http://cloud.hosting.kr/blog/) (MEGAZONE)
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
