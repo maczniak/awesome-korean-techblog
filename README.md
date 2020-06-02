@@ -4,6 +4,7 @@
 
 ## 기업 블로그 (Corporate Blog)
 
+* [29CM](https://medium.com/29cm) (29CM)
 * [가자고](http://tech.thegajago.com/) (GAJAGO, 레저큐, LeisureQ)
 * [굿닥](http://dev.goodoc.co.kr/) (goodoc)
 * [넥스투비](https://www.nextobe.com/technology) (NEXTOBE)
