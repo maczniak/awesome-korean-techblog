@@ -15,7 +15,7 @@
 * [데일리호텔](https://blog.dailyhotel.com/) (DAILYHOTEL)
 * [드라마앤컴퍼니](http://developer.dramancompany.com/) (DRAMA&COMPANY)
 * [레드아이스](https://redice-inc.github.io/) (Redice)
-* [레이니스트](https://medium.com/rainist-engineering) (Rainist)
+* [레이니스트](https://blog.banksalad.com/tech/) (Rainist, 뱅크샐러드 Banksalad, [old](https://medium.com/rainist-engineering))
 * [레진](http://tech.lezhin.com/) (LezhinEnt)
 * [렘](https://realm.io/kr/news/) (Realm)
 * [리디북스](http://www.ridicorp.com/blog/) (RIDI Corporation)
