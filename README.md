@@ -52,6 +52,7 @@
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
 * [플라네타리움](https://snack.planetarium.dev/kor/) (Planetarium)
+* [하이퍼커넥트](https://hyperconnect.github.io/) (Hyperconnect)
 * [헤이딜러](https://medium.com/prnd) (PRND)
 * [힐링페이퍼](https://blog.gangnamunni.com/) (Healingpaper)
 * [Amazon Web Services](https://aws.amazon.com/ko/blogs/korea/)
