@@ -52,6 +52,7 @@
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
 * [카카오](http://tech.kakao.com/) (Kakao)
+* [코인원](https://medium.com/coinone-official) (Coinone)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
