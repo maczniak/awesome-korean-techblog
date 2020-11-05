@@ -39,6 +39,7 @@
 * [애드투페이퍼](http://add2paper.github.io/) (ADD2PAPER)
 * [야놀자](https://yanolja.github.io/) (Yanolja)
 * [에이블정보기술](http://blog.ableit.co.kr/) (ABLE IT)
+* [에이치닥테크놀로지](https://www.hdactech.com/company/newsList.do?searchCategory=developers) (Hdac Technology)
 * [엔씨소프트](http://blog.ncsoft.com/) (NCSOFT)
 * [엑셈](http://exem.tistory.com/category/기술이야기) (EXEM, [백과사전](http://www.exemwiki.com))
 * [오라클 클라우드](http://www.oracloud.kr/) (Oracle Cloud)
