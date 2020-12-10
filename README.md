@@ -48,6 +48,7 @@
 * [와탭](http://tech.whatap.io/) (WhaTap)
 * [우리은행](https://digitalwooribank.github.io/) (Woori Bank)
 * [우아한형제들](http://woowabros.github.io/) (Woowa Brothers Corp)
+* [원티드 제품 팀](https://medium.com/wantedjobs) (Wantedlab)
 * [이스트소프트 A.I. PLUS Lab](https://blog.est.ai/) (ESTsoft)
 * [이음소시어스](http://bigmatch.i-um.net/) (IUMSOCIUS)
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
