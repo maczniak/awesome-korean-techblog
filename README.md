@@ -15,6 +15,7 @@
 * [당근마켓](https://medium.com/n42-corp) (N42)
 * [데이블](http://blog.naver.com/PostList.nhn?blogId=teamdable&categoryNo=8) (Dable)
 * [데일리호텔](https://blog.dailyhotel.com/) (DAILYHOTEL)
+* [두다](https://medium.com/doodateam) (Dooda)
 * [드라마앤컴퍼니](http://developer.dramancompany.com/) (DRAMA&COMPANY)
 * [레드아이스](https://redice-inc.github.io/) (Redice)
 * [레이니스트](https://blog.banksalad.com/tech/) (Rainist, 뱅크샐러드 Banksalad, [old](https://medium.com/rainist-engineering))
