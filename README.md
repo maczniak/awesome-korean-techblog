@@ -61,6 +61,7 @@
 * [카카오](http://tech.kakao.com/) (Kakao)
 * [코인원](https://medium.com/coinone-official) (Coinone)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
+* [크몽](https://brunch.co.kr/@kmongdev#articles) (kmong)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
