@@ -4,6 +4,7 @@
 
 ## 기업 블로그 (Corporate Blog)
 
+* [11번가](https://www.youtube.com/channel/UCTywUrqehYVG3vNZN8cqYcw/videos) (11st)
 * [29CM](https://medium.com/29cm) (29CM)
 * [가자고](http://tech.thegajago.com/) (GAJAGO, 레저큐, LeisureQ)
 * [굿닥](http://dev.goodoc.co.kr/) (goodoc)
@@ -27,10 +28,12 @@
 * [마켓컬리](https://helloworld.kurly.com/) (MARKET Kurly)
 * [마플](https://marpple.github.io/) (Marpple)
 * [메가존](http://cloud.hosting.kr/blog/) (MEGAZONE)
+* [무신사](https://medium.com/musinsa-tech) (MUSINSA)
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
 * [버즈빌](https://www.buzzvil.com/category/technology-engineering/) (Buzzvil)
 * [비트나인](http://bitnine.tistory.com/) (Bitnine, [english](http://bitnine.net/blog/))
 * [베스핀글로벌](http://bespinglobal.com/resources/tech-blog/) (BESPIN GLOBAL)
+* [사람인HR](https://saramin.github.io/) (SaraminHR)
 * [사이냅소프트](http://blog.synapsoft.co.kr/category/사이냅소프트/개발문화) (Synapsoft, [Project Euler](http://euler.synap.co.kr))
 * [삼성SDS 인사이트리포트](https://www.samsungsds.com/global/ko/support/insights/) (Samsung SDS)
 * [세이정보기술](http://www.sayit.kr/?cat=95) (SAYIT)
@@ -62,6 +65,7 @@
 * [코인원](https://medium.com/coinone-official) (Coinone)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
 * [크몽](https://brunch.co.kr/@kmongdev#articles) (kmong)
+* [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
