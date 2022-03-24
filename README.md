@@ -69,6 +69,7 @@
 * [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
+* [펫프렌즈](https://pfdev.medium.com/) (pet-friends)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
 * [플라네타리움](https://snack.planetarium.dev/kor/) (Planetarium)
 * [하이퍼커넥트](https://hyperconnect.github.io/) (Hyperconnect)
