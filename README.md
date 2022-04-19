@@ -45,6 +45,7 @@
 * [아이오트러스트](https://medium.com/iotrustlab) (IOTRUST)
 * [애드투페이퍼](http://add2paper.github.io/) (ADD2PAPER)
 * [야놀자](https://yanolja.github.io/) (Yanolja)
+* [업스테이지](https://www.upstage.ai/blog/category/Tech) (Upstage)
 * [에이블정보기술](http://blog.ableit.co.kr/) (ABLE IT)
 * [에이치닥테크놀로지](https://www.hdactech.com/company/newsList.do?searchCategory=developers) (Hdac Technology)
 * [에이치비스미스](https://medium.com/hbsmith) (HBsmith)
