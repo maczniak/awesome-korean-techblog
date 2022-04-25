@@ -61,6 +61,7 @@
 * [원티드 제품 팀](https://medium.com/wantedjobs) (Wantedlab)
 * [이스트소프트 A.I. PLUS Lab](https://blog.est.ai/) (ESTsoft)
 * [이음소시어스](http://bigmatch.i-um.net/) (IUMSOCIUS)
+* [인덴트코퍼레이션](https://blog.indentcorp.com/) (Indent corp.)
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
 * [카카오](http://tech.kakao.com/) (Kakao)
