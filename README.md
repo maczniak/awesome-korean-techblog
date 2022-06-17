@@ -54,6 +54,7 @@
 * [오라클 클라우드](http://www.oracloud.kr/) (Oracle Cloud)
 * [오픈소스컨설팅](https://tech.osci.kr/) (OpenSourceConsulting)
 * [온더](https://medium.com/onther-tech) (Onther, [@onther](https://medium.com/@onther))
+* [요기요](https://techblog.yogiyo.co.kr/) (YOGIYO, 위대한상상, Delivery Hero Korea)
 * [와탭](http://tech.whatap.io/) (WhaTap)
 * [왓챠](https://medium.com/watcha) (WATCHA)
 * [우리은행](https://digitalwooribank.github.io/) (Woori Bank)
