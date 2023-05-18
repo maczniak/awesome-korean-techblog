@@ -80,6 +80,7 @@
 * [헤이딜러](https://medium.com/prnd) (PRND)
 * [힐링페이퍼](https://blog.gangnamunni.com/) (Healingpaper)
 * [Amazon Web Services](https://aws.amazon.com/ko/blogs/korea/)
+* [DEVOCEAN](https://devocean.sk.com/) (SK그룹, SK Group)
 * [Elastic](https://www.elastic.co/kr/blog/category/engineering)
 * [Google](https://developers-kr.googleblog.com/)
 * [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER)
