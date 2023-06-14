@@ -80,6 +80,7 @@
 * [플라네타리움](https://snack.planetarium.dev/kor/) (Planetarium)
 * [하이퍼커넥트](https://hyperconnect.github.io/) (Hyperconnect)
 * [헤이딜러](https://medium.com/prnd) (PRND)
+* [화해](https://blog.hwahae.co.kr/category/all/tech) (Hwahae, 버드뷰, BIRDVIEW)
 * [힐링페이퍼](https://blog.gangnamunni.com/) (Healingpaper)
 * [Amazon Web Services](https://aws.amazon.com/ko/blogs/korea/)
 * [DEVOCEAN](https://devocean.sk.com/) (SK그룹, SK Group)
@@ -98,22 +99,24 @@
 
 ## 단체 블로그 (Team Blog)
 
-* [모두의연구소](http://www.whydsp.org/) (lab4all)
-* [이상한모임](http://blog.weirdx.io/) (WeirdMeetup)
-* [AWSKRUG](http://www.awskr.org/)
-* [Flative](http://blog.flative.io/)
-* [Nexters](http://nexters.github.io/)
+* [모두의연구소](https://modulabs.co.kr/blog/) (lab4all)
+* [벨로그](https://velog.io/) (velog)
+* [요즘IT](https://yozm.wishket.com/magazine/) (Yozm)
 * [Popit](http://www.popit.kr/)
 
 ## 비활성 (Inactive)
 
 * [다우기술 SW연구소](http://daoudev.tistory.com/) (DAOU Tech)
 * [아이디인큐](http://blogs.idincu.com/dev/) (IDINCU)
+* [이상한모임](http://blog.weirdx.io/) (WeirdMeetup)
 * [이지원시스템](http://www.esupport.kr/?page_id=2491) (E-Support System)
 * [투씨에스지](http://tocsg.tistory.com/) (ToCSG)
+* [AWSKRUG](http://www.awskr.org/)
 * [Daum](http://daumdna.tistory.com/)
+* [Flative](http://blog.flative.io/)
 * KTH
 * [MongoDB Internals](http://mongodb.citsoft.net/) (카디날정보기술, CITSoft)
+* [Nexters](http://nexters.github.io/)
 
 ## 참고 (See Also)
 
