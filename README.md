@@ -67,6 +67,7 @@
 * [이음소시어스](http://bigmatch.i-um.net/) (IUMSOCIUS)
 * [인덴트코퍼레이션](https://blog.indentcorp.com/) (Indent corp.)
 * [인포그랩](https://insight.infograb.net/blog/) (InfoGrab)
+* [인프런](https://tech.inflab.com/) (inflearn, 인프랩, INFLAB)
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
 * [카카오](http://tech.kakao.com/) (Kakao)
