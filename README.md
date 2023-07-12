@@ -26,6 +26,7 @@
 * [레이니스트](https://blog.banksalad.com/tech/) (Rainist, 뱅크샐러드 Banksalad, [old](https://medium.com/rainist-engineering))
 * [레진](http://tech.lezhin.com/) (LezhinEnt)
 * [렘](https://realm.io/kr/news/) (Realm)
+* [루닛](https://www.lunit.io/ko/company/blog?category=Development) (Lunit)
 * [리디북스](http://www.ridicorp.com/blog/) (RIDI Corporation)
 * [리모트몬스터](https://blog.remotemonster.com/tagged/tech) (REMOTEMONSTER)
 * [마켓컬리](https://helloworld.kurly.com/) (MARKET Kurly)
