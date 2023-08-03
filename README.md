@@ -98,6 +98,7 @@
 * [Mozilla](http://hacks.mozilla.or.kr/)
 * [NGINX STORE](https://www.nginxplus.co.kr/blog/) (아이티언, ITIAN)
 * [OpsNow](https://blog.opsnow.com/) (Bespin Global)
+* [pxd Story](https://story.pxd.co.kr/category/), [XE Group](https://pxd-fed-blog.web.app/) (pxd)
 * [README](http://readme.skplanet.com/) (SK플래닛, SK planet, [video](https://www.youtube.com/channel/UC4io6dg84bH23Ukhd0ISfvQ))
 * [VCNC](http://engineering.vcnc.co.kr/)
 
