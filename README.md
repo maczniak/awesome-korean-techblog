@@ -119,7 +119,7 @@
 * [AWSKRUG](http://www.awskr.org/)
 * [Daum](http://daumdna.tistory.com/)
 * [Flative](http://blog.flative.io/)
-* KTH
+* KTH ([archive](https://channy.creation.net/project/dev.kthcorp.com/))
 * [MongoDB Internals](http://mongodb.citsoft.net/) (카디날정보기술, CITSoft)
 * [Nexters](http://nexters.github.io/)
 
