@@ -75,6 +75,7 @@
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
 * [카카오](http://tech.kakao.com/) (Kakao)
 * [코인원](https://medium.com/coinone-official) (Coinone)
+* [콴다](https://blog.mathpresso.com/) (QANDA, 매스프레소, Mathpresso)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
 * [크몽](https://brunch.co.kr/@kmongdev#articles) (kmong)
 * [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
