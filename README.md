@@ -55,7 +55,7 @@
 * [에이치닥테크놀로지](https://www.hdactech.com/company/newsList.do?searchCategory=developers) (Hdac Technology)
 * [에이치비스미스](https://medium.com/hbsmith) (HBsmith)
 * [엔라이즈](https://blog.nrise.net/tech/home) (NRISE) ([old](https://nrise.github.io/))
-* [엔씨소프트](http://blog.ncsoft.com/) (NCSOFT)
+* [엔씨소프트](https://about.ncsoft.com/search?searchData=TECH%20TRACK) (NCSOFT, [NC Research](https://ncsoft.github.io/ncresearch/blogs/))
 * [엑셈](http://exem.tistory.com/category/기술이야기) (EXEM, [백과사전](http://www.exemwiki.com))
 * [오라클 클라우드](http://www.oracloud.kr/) (Oracle Cloud)
 * [오픈소스컨설팅](https://tech.osci.kr/) (OpenSourceConsulting)
