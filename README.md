@@ -80,6 +80,7 @@
 * [콴다](https://blog.mathpresso.com/) (QANDA, 매스프레소, Mathpresso)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
 * [크몽](https://brunch.co.kr/@kmongdev#articles) (kmong)
+* [클라우드메이트](https://tech.cloudmt.co.kr/) (CLOUDMATE)
 * [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
