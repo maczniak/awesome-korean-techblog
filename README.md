@@ -71,7 +71,7 @@
 * [이음소시어스](http://bigmatch.i-um.net/) (IUMSOCIUS)
 * [인덴트코퍼레이션](https://blog.indentcorp.com/) (Indent corp.)
 * [인포그랩](https://insight.infograb.net/blog/) (InfoGrab)
-* [인프런](https://tech.inflab.com/) (inflearn, 인프랩, INFLAB)
+* [인프랩](https://tech.inflab.com/) (INFLAB)
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
 * [카카오](http://tech.kakao.com/) (Kakao)
@@ -112,6 +112,7 @@
 * [모두의연구소](https://modulabs.co.kr/blog/) (lab4all)
 * [벨로그](https://velog.io/) (velog)
 * [요즘IT](https://yozm.wishket.com/magazine/) (Yozm)
+* [인프런](https://www.inflearn.com/blogs?order=recent) (inflearn)
 * [Popit](http://www.popit.kr/)
 
 ## 비활성 (Inactive)
