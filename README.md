@@ -76,6 +76,7 @@
 * [인프랩](https://tech.inflab.com/) (INFLAB)
 * [재원에이전시](http://jewonagency.com/blog/) (Jewon Agency)
 * [조이](https://medium.com/zoyi-blog) (ZOYI, [old](https://zoyi.co/tech-blog/))
+* [직방](https://medium.com/zigbang) (zigbang)
 * [카카오](http://tech.kakao.com/) (Kakao)
 * [카카오페이](https://tech.kakaopay.com/) (Kakao pay)
 * [코인원](https://medium.com/coinone-official) (Coinone)
