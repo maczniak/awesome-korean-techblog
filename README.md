@@ -41,7 +41,7 @@
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
 * [버즈빌](https://www.buzzvil.com/category/technology-engineering/) (Buzzvil)
 * [비트나인](http://bitnine.tistory.com/) (Bitnine, [english](http://bitnine.net/blog/))
-* [베스핀글로벌](http://bespinglobal.com/resources/tech-blog/) (BESPIN GLOBAL)
+* [베스핀글로벌](https://blog.bespinglobal.com/) (BESPIN GLOBAL, [old](http://bespinglobal.com/resources/tech-blog/))
 * [사람인HR](https://saramin.github.io/) (SaraminHR)
 * [사이냅소프트](http://blog.synapsoft.co.kr/category/사이냅소프트/개발문화) (Synapsoft, [Project Euler](http://euler.synap.co.kr))
 * [삼성SDS 인사이트리포트](https://www.samsungsds.com/global/ko/support/insights/) (Samsung SDS)
