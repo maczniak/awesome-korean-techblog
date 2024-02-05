@@ -106,7 +106,7 @@
 * [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER)
 * [JANDI](http://tosslab.github.io/) (토스랩, Toss Lab)
 * [LG CNS](http://blog.lgcns.com/)
-* [LINE Plus Corporation](http://developers.linecorp.com/blog/ko/)
+* [LY Corporation](https://techblog.lycorp.co.jp/ko) (LINE + Yahoo! JAPAN)
 * [NHN Cloud Meetup!](https://meetup.nhncloud.com/) (NHN엔터테인먼트, NHN Entertainment, [FE Weekly](https://github.com/nhnent/fe.javascript/wiki/FE-Weekly))
 * [Mozilla](http://hacks.mozilla.or.kr/)
 * [NGINX STORE](https://www.nginxplus.co.kr/blog/) (아이티언, ITIAN)
