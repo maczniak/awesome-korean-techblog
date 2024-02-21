@@ -103,7 +103,7 @@
 * [DEVOCEAN](https://devocean.sk.com/) (SK그룹, SK Group)
 * [Elastic](https://www.elastic.co/kr/blog/category/engineering)
 * [Google](https://developers-kr.googleblog.com/)
-* [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER, [FE News](https://github.com/naver/fe-news))
+* [Hello world](http://d2.naver.com/helloworld) (네이버, NAVER, [FE News](https://github.com/naver/fe-news), [네이버코드](https://code.naver.com/main/))
 * [JANDI](http://tosslab.github.io/) (토스랩, Toss Lab)
 * [LG CNS](http://blog.lgcns.com/)
 * [LY Corporation](https://techblog.lycorp.co.jp/ko) (LINE + Yahoo! JAPAN)
