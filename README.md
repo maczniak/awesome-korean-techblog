@@ -40,6 +40,7 @@
 * [무신사](https://medium.com/musinsa-tech) (MUSINSA)
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
 * [버즈빌](https://www.buzzvil.com/category/technology-engineering/) (Buzzvil)
+* [블록오디세이](https://block-odyssey-tech.medium.com/) (BlockOdyssey)
 * [비트나인](http://bitnine.tistory.com/) (Bitnine, [english](http://bitnine.net/blog/))
 * [베스핀글로벌](https://blog.bespinglobal.com/) (BESPIN GLOBAL, [old](http://bespinglobal.com/resources/tech-blog/))
 * [사람인HR](https://saramin.github.io/) (SaraminHR)
