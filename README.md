@@ -114,6 +114,7 @@
 * [OpsNow](https://blog.opsnow.com/) (Bespin Global)
 * [pxd Story](https://story.pxd.co.kr/category/), [XE Group](https://pxd-fed-blog.web.app/) (pxd)
 * [README](http://readme.skplanet.com/) (SK플래닛, SK planet, [video](https://www.youtube.com/channel/UC4io6dg84bH23Ukhd0ISfvQ))
+* [Sionic AI](https://blog.sionic.ai/articles)
 * [VCNC](http://engineering.vcnc.co.kr/)
 
 ## 단체 블로그 (Team Blog)
