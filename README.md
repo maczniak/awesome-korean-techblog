@@ -27,6 +27,7 @@
 * [라이너](https://blog.getliner.com/tech/) (LINER)
 * [래블업](https://blog.lablup.com/posts/) (Lablup)
 * [레드아이스](https://redice-inc.github.io/) (Redice)
+* [레몬베이스](https://blog.lemonbase.team/engineering/home) (Lemonbase)
 * [레이니스트](https://blog.banksalad.com/tech/) (Rainist, 뱅크샐러드 Banksalad, [old](https://medium.com/rainist-engineering))
 * [레진](http://tech.lezhin.com/) (LezhinEnt)
 * [렘](https://realm.io/kr/news/) (Realm)
