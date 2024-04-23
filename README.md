@@ -93,6 +93,7 @@
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
 * [펫프렌즈](https://pfdev.medium.com/) (pet-friends)
+* [프루터](https://medium.com/proofer-blog/tagged/tech) (proofer)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
 * [플라네타리움](https://snack.planetarium.dev/kor/) (Planetarium)
 * [하이퍼커넥트](https://hyperconnect.github.io/) (Hyperconnect)
