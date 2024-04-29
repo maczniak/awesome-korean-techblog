@@ -49,6 +49,7 @@
 * [삼성SDS 인사이트리포트](https://www.samsungsds.com/global/ko/support/insights/) (Samsung SDS)
 * [세이정보기술](http://www.sayit.kr/?cat=95) (SAYIT)
 * [센드버드](http://blog.sendbird.com/ko/) (SendBird)
+* [스마일샤크](https://www.smileshark.kr/blog) (SmileShark)
 * [스캐터랩](https://tech.scatterlab.co.kr/) (Scatter Lab)
 * [스타일쉐어](https://styleshare.github.io/) (StyleShare)
 * [스포카](https://spoqa.github.io/) (Spoqa)
