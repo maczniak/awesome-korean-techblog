@@ -89,6 +89,7 @@
 * [코인원](https://medium.com/coinone-official) (Coinone)
 * [콴다](https://blog.mathpresso.com/) (QANDA, 매스프레소, Mathpresso)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
+* [코리아포트원](https://developers.portone.io/blog) (PortOne, 아임포트 iamport)
 * [크몽](https://blog.kmong.com/tech/home) (kmong)
 * [클라우드메이트](https://tech.cloudmt.co.kr/) (CLOUDMATE)
 * [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
