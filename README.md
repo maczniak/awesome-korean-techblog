@@ -128,6 +128,7 @@
 * [벨로그](https://velog.io/) (velog)
 * [요즘IT](https://yozm.wishket.com/magazine/) (Yozm)
 * [인프런](https://www.inflearn.com/blogs?order=recent) (inflearn)
+* [한국 포스트그레스큐엘](https://postgresql.kr/) (POSTGRESQL.KR, database.sarang.net)
 * [Popit](http://www.popit.kr/)
 
 ## 비활성 (Inactive)
