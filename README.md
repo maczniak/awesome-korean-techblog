@@ -26,6 +26,7 @@
 * [딜라이트룸](https://medium.com/@delightroom) (DelightRoom)
 * [딜리셔스](https://dealicious-inc.github.io/) (Dealicious)
 * [라이너](https://blog.getliner.com/tech/) (LINER)
+* [람다256](https://luniverse.io/ko/articles) (Lambda256, Luniverse)
 * [래블업](https://blog.lablup.com/posts/) (Lablup)
 * [레드아이스](https://redice-inc.github.io/) (Redice)
 * [레몬베이스](https://blog.lemonbase.team/engineering/home) (Lemonbase)
