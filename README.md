@@ -96,6 +96,7 @@
 * [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
+* [팀스파르타](https://spartacodingclub.kr/blog) (TEAMSPARTA, 스파르타코딩클럽)
 * [펫프렌즈](https://pfdev.medium.com/) (pet-friends)
 * [프루터](https://medium.com/proofer-blog/tagged/tech) (proofer)
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
