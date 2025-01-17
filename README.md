@@ -6,6 +6,7 @@
 
 * [11번가](https://www.youtube.com/channel/UCTywUrqehYVG3vNZN8cqYcw/videos) (11st)
 * [29CM](https://medium.com/29cm) (29CM)
+* [78ResearchLab](https://blog.78researchlab.com/) (78ResearchLab)
 * [8퍼센트](https://8percent.github.io/) (8PERCENT)
 * [가자고](http://tech.thegajago.com/) (GAJAGO, 레저큐, LeisureQ)
 * [강남언니](https://blog.gangnamunni.com/blog) (Gangnam Unni, 힐링페이퍼, Healingpaper)
