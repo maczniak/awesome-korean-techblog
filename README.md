@@ -103,6 +103,7 @@
 * [플러스아이](http://www.plus-i.co.kr/?cat=6) (Plus-I)
 * [플라네타리움](https://snack.planetarium.dev/kor/) (Planetarium)
 * [하이퍼커넥트](https://hyperconnect.github.io/) (Hyperconnect)
+* [한글과컴퓨터](https://tech.hancom.com/blog/) (한컴, Hancom)
 * [한빛앤](https://www.hanbitn.com/article/) (HanbitN)
 * [해시스크래퍼](https://blog.hashscraper.com/) (HASHSCRAPER)
 * [헤이딜러](https://medium.com/prnd) (PRND)
