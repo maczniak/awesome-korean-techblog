@@ -94,6 +94,7 @@
 * [코리아포트원](https://developers.portone.io/blog) (PortOne, 아임포트 iamport)
 * [크몽](https://blog.kmong.com/tech/home) (kmong)
 * [클라우드메이트](https://tech.cloudmt.co.kr/) (CLOUDMATE)
+* [클라우드웍스](https://medium.com/crowdworks-tech) (Crowdworks AI)
 * [토스테크](https://toss.tech/) (비바리퍼블리카, Viva Republica, Toss)
 * [트렌비](http://tech.trenbe.com/) (Trenbe)
 * [티몬](http://blog.naver.com/prologue/PrologueList.nhn?blogId=tmondev) (Ticket Monster, meetup news)
