@@ -20,6 +20,7 @@
 * [다나와](https://danawalab.github.io/) (danawa)
 * [달리웍스](http://techblog.daliworks.net) (Daliworks)
 * [당근마켓](https://medium.com/n42-corp) (N42)
+* [데보션](https://devocean.sk.com/blog/) (DEVOCEAN, SK그룹, SK Group)
 * [데이블](http://blog.naver.com/PostList.nhn?blogId=teamdable&categoryNo=8) (Dable)
 * [데일리호텔](https://blog.dailyhotel.com/) (DAILYHOTEL)
 * [두다](https://medium.com/doodateam) (Dooda)
