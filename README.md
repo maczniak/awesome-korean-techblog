@@ -43,6 +43,7 @@
 * [마켓컬리](https://helloworld.kurly.com/) (MARKET Kurly)
 * [마플](https://marpple.github.io/) (Marpple)
 * [메가존](http://cloud.hosting.kr/blog/) (MEGAZONE)
+* [모두싸인](https://team.modusign.co.kr/) (Modusign)
 * [무신사](https://medium.com/musinsa-tech) (MUSINSA)
 * [버즈니](http://engineering.buzzni.com/) (Buzzni)
 * [버즈빌](https://www.buzzvil.com/category/technology-engineering/) (Buzzvil)
