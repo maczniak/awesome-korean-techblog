@@ -92,6 +92,7 @@
 * [직방](https://medium.com/zigbang) (zigbang)
 * [카카오](http://tech.kakao.com/) (Kakao)
 * [카카오페이](https://tech.kakaopay.com/) (Kakao pay)
+* [카테노이드](https://techblog.catenoid.net/) (Catenoid)
 * [코인원](https://medium.com/coinone-official) (Coinone)
 * [콴다](https://blog.mathpresso.com/) (QANDA, 매스프레소, Mathpresso)
 * [쿠팡](https://medium.com/@coupangtech) (Coupang)
